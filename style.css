@@ -1,0 +1,71 @@
+body{
+    background-color: aquamarine;
+    place-items: center;
+    display: grid;
+}
+
+.box{
+    background-color: white;
+    text-align: center;
+    display: grid;
+    width: 320px;
+    place-items: center;
+       
+}
+
+.hero-image {
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+
+h1{
+    text-align: center;
+    font-weight: 900;
+}
+
+.about{
+text-align: center;
+color: grey;
+
+}
+
+.proceed{
+    border-radius: 5px;
+    width: 90%;
+    padding: 10px;
+    background-color: blue;
+    
+}
+
+
+.price{
+     background-color: grey;
+     display: flex; 
+     width: 300px;
+     border-radius: 5px;
+     justify-content:space-around;
+     margin-bottom: 10px;
+}
+
+
+.blue {
+     background-color: hsl(245, 75%, 52%);
+     display: grid;
+     border-radius: 5px;
+     width: 300px;
+     border-radius: 5px;
+     place-items: center;
+ 
+}
+
+
+.change{
+    padding: 10px;
+    margin-top: 10px;
+}
+
+
+.icon{
+    margin-top: 10px;
+}
+
